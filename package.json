@@ -1,6 +1,6 @@
 {
-  "name": "chatwidget",
-  "version": "1.0.0",
+  "name": "chatwidgetxyz",
+  "version": "1.0.1",
   "description": "A chatbot Plug and Play widget",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
